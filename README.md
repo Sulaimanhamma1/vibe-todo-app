@@ -33,3 +33,10 @@ Bolt.new was used to scaffold, build, and iterate on the application using AI-as
    ```bash
    git clone https://github.com/Sulaimanhamm1/vibe-todo-app.git
 
+   ## Dockerization
+
+### Build Docker Image
+```bash
+docker build -t vibe-todo-app .
+
+
